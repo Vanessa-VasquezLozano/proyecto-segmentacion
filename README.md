@@ -9,3 +9,6 @@ EL objetivo como Analista de Datos es preparar la base de datos para aplicar la 
 Es posible analizar los datos con más profundidad aún mediante lo que se conoce como análisis de cohorte. Este análisis permitire entender el comportamiento de los clientes que comenzaron a comprar en un mismo mes y, por lo tanto, calcular una nueva métrica llamada porcentaje de retención de clientes mes a mes.
 
 ![](cohorte.png)
+
+# Habilidades trabajadas
+![](habilidades.png)
