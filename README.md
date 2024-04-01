@@ -10,5 +10,5 @@ Es posible analizar los datos con más profundidad aún mediante lo que se conoc
 
 ![](cohorte.png)
 
-# Habilidades trabajadas
+## Habilidades ejecutadas
 ![](habilidades.png)
