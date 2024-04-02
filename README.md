@@ -1,4 +1,4 @@
-# Proyecto de Segmetacin con RFM
+# Proyecto de Segmetación con RFM
 
 En este proyecto se analiza las ventas a fin de segmentar la base de clientes mediante la metodología RFM (Cuán reciente, Frecuencia y Valor Monetario) de la tienda "El Mercado". Esta estrategia proporcionará a la empresa una ventaja competitiva clave al brindar un profundo entendimiento del comportamiento de compra de sus clientes y permitirá la toma de decisiones estratégicas basadas en datos.
 
